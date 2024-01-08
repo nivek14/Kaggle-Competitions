@@ -1,0 +1,15 @@
+Pclass:
+1 - Rico
+2 - Médio
+3 - Pobre
+
+Embarked:
+S
+C
+Q
+
+SibSp: 
+Número de irmão ou marido e mulher
+
+Partch:
+Número de filhos
